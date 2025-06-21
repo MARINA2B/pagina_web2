@@ -9,7 +9,7 @@
 body {
     font-family: 'Chakra Petch', sans-serif;
     background-color: #000; /* Fundo preto */
-    color: white; /* Cor padrão dos textos */
+    color: rgb(0, 0, 255); /* Cor padrão dos textos */
 }
 
 h1, h2, h5 {
